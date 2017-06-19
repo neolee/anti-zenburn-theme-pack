@@ -1,0 +1,9 @@
+[submodule "vendor/solarized-emacs"]
+	path = vendor/solarized-emacs
+	url = git@github.com:bbatsov/solarized-emacs.git
+[submodule "vendor/zenburn-emacs"]
+	path = vendor/zenburn-emacs
+	url = https://github.com/bbatsov/zenburn-emacs.git
+[submodule "vendor/anti-zenburn-theme"]
+	path = vendor/anti-zenburn-theme
+	url = https://github.com/m00natic/anti-zenburn-theme
